@@ -5,9 +5,7 @@
 <h1>HITARTH SHAH</h1>
 <p><i>security researcher // bug hunter // breaker of things</i></p>
 
-<a href="https://hitarth-shah.framer.website/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=breaking+things+responsibly.;hunting+CVEs+%2F%2F+auditing+code+%2F%2F+chasing+0-days;machine+learning+in+cybersecurity.;reverse+engineering+cars." alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=34&duration=3200&pause=1000&color=C9D1D9&center=true&vCenter=true&width=820&letterSpacing=4&lines=BREAKING+THINGS+RESPONSIBLY;HUNTING+CVES+%2F%2F+AUDITING+CODE;MACHINE+LEARNING+IN+CYBERSECURITY;REVERSE+ENGINEERING+CARS" alt="tagline" />
 
 <br/>
 
@@ -21,10 +19,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## `whoami`
 
 ```yaml
@@ -37,15 +31,6 @@ status:  always hunting
 I break software, audit code, and write up the carnage.
 Lately I have been teaching machines to hunt bugs and
 teaching myself how cars talk to each other.
-
-</td>
-<td width="40%" valign="top">
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/hacker.gif" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
