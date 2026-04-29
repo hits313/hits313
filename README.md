@@ -183,6 +183,20 @@ teaching myself how cars talk to each other.
 
 ---
 
+## `contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hits313/hits313/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hits313/hits313/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hits313/hits313/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## `metrics`
 
 <div align="center">
