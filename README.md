@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:6e40c9,100:0d1117&height=200&section=header&text=HITARTH%20SHAH&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=security%20researcher%20//%20bug%20hunter%20//%20breaker%20of%20things&descAlignY=68&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://i.pinimg.com/originals/99/41/ee/9941ee6c7fc6f851a1b53427243e69dd.gif" width="100%" alt="banner" />
+
+<h1>HITARTH SHAH</h1>
+<p><i>security researcher // bug hunter // breaker of things</i></p>
 
 <a href="https://hitarth-shah.framer.website/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=breaking+things+responsibly.;hunting+CVEs+%2F%2F+auditing+code+%2F%2F+chasing+0-days;machine+learning+in+cybersecurity.;reverse+engineering+cars." alt="typing" />
@@ -185,7 +188,6 @@ teaching myself how cars talk to each other.
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hits313&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=1f6feb&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hits313&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" />
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=hits313&hide_border=true&background=0d1117&stroke=1f6feb&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
