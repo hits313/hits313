@@ -215,3 +215,4 @@ automotive · can bus      supply chain
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer&reversal=true&animation=fadeIn" width="100%" />
 
 </div>
+
