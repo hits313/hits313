@@ -187,8 +187,6 @@ teaching myself how cars talk to each other.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hits313&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=1f6feb&text_color=c9d1d9" />
-
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=hits313&hide_border=true&background=0d1117&stroke=1f6feb&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hits313&bg_color=0d1117&color=ffffff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
