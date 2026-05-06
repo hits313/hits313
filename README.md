@@ -66,7 +66,7 @@ teaching myself how cars talk to each other.
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
 </tr>
 <tr>
-  <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-43929"><code>GHSA-j4rj-2jr5-m439</code></a></td>
+  <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-43929"><code>CVE-2026-43929</code></a></td>
   <td>CWE-918 · SSRF (NAT64 / IPv4-mapped bypass)</td>
   <td><code>ssrfcheck</code></td>
   <td><img src="https://img.shields.io/badge/pending-eab308?style=flat-square" /></td>
