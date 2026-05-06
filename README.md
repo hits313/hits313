@@ -54,19 +54,19 @@ teaching myself how cars talk to each other.
 </tr>
 <tr>
   <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-41507"><code>CVE-2026-41507</code></a></td>
-  <td>—</td>
+  <td>CWE-94</td>
   <td><code>Math-codegen</code></td>
 </td>
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
 </tr>
 <tr>
   <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-42175"><code>CVE-2026-42175</code></a></td>
-  <td>—</td>
-  <td></td>
+  <td>CWE-918 · SSRF (NAT64 / IPv6-mapped bypass)</td>
+  <td><code>requests-hardened</code></td>
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/felippe-regazio/ssrfcheck/security/advisories/GHSA-j4rj-2jr5-m439"><code>GHSA-j4rj-2jr5-m439</code></a></td>
+  <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-43929"><code>GHSA-j4rj-2jr5-m439</code></a></td>
   <td>CWE-918 · SSRF (NAT64 / IPv4-mapped bypass)</td>
   <td><code>ssrfcheck</code></td>
   <td><img src="https://img.shields.io/badge/pending-eab308?style=flat-square" /></td>
