@@ -54,7 +54,7 @@ teaching myself how cars talk to each other.
 </tr>
 <tr>
   <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-41507"><code>CVE-2026-41507</code></a></td>
-  <td>CWE-94</td>
+  <td>CWE-94 Remote Code Execution </td>
   <td><code>Math-codegen</code></td>
 </td>
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
