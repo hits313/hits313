@@ -55,13 +55,14 @@ teaching myself how cars talk to each other.
 <tr>
   <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-41507"><code>CVE-2026-41507</code></a></td>
   <td>—</td>
-  <td>—</td>
+  <td>Remote Code Execution (RCE) via String Literal Injection into math-codegen
+</td>
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
 </tr>
 <tr>
   <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-42175"><code>CVE-2026-42175</code></a></td>
   <td>—</td>
-  <td>—</td>
+  <td></td>
   <td><img src="https://img.shields.io/badge/reserved-6e7681?style=flat-square" /></td>
 </tr>
 <tr>
